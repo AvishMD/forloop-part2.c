@@ -8,7 +8,7 @@ int main() {
         if(gb>2)
             count++;
     }
-    printf("%d\n",sum);
-    printf("%d",count);
+    printf("Total Days: %d\n",sum);
+    printf(" High Usage Days: %d",count);
     return 0;
 }
